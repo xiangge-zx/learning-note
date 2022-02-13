@@ -1,0 +1,6 @@
+如果是html+css+js组合 可以通过nginx或者tomcat的方式部署
+如果是nginx的话   只需要修改nginx.conf即可  然后启动nginx   相当于提供一个外部访问的入口
+
+
+
+vue.js本质是一个库，里面有很多函数用于使用
