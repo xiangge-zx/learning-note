@@ -16,8 +16,6 @@ awk -F ' ' '{print $1}'
 
 ![](C:\Users\Administrator\AppData\Roaming\marktext\images\2023-11-26-11-07-34-image.png)
 
-
-
 ![](C:\Users\Administrator\AppData\Roaming\marktext\images\2023-11-26-11-09-15-image.png)
 
 2. 数据统计 
@@ -27,7 +25,3 @@ awk -F ' ' '{print $1}'
 ![](C:\Users\Administrator\AppData\Roaming\marktext\images\2023-11-26-11-16-29-image.png)
 
 ![](C:\Users\Administrator\AppData\Roaming\marktext\images\2023-11-26-11-16-34-image.png)
-
-
-
-
